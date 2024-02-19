@@ -1,5 +1,11 @@
 # 💫 About Me:
-A graduate student from Computer Science and Engineering at North South University. Passionate about coding, sharing experiences, and motivating others. Highly appreciate working in varsetile environment and learn about others. Ready to take new challenges and responsibilities.
+An energetic engineer, with a major in Computer Science and Engineering,
+excited to use my knowledge of software development, data analysis, and
+problem-solving to help a team create new and improved technology. I want to
+use my skills to work with others, think of smart solutions, and make technology
+that's easy and fun for people to use. I am passionate about sharing experiences
+and motivating others.
+
 
 
 ## 🌐 Socials:
